@@ -1,8 +1,8 @@
 # License-Plate-Recognition With GUI!
 
-This program is based on MATLAB<br/>
+The program is based on MATLAB<br/>
 
-Please note that the three NET.MAT NET1.MAT and NET2.MAT are necessary.<br/>
+The program use BP neural network so please note that the three NET.MAT NET1.MAT and NET2.MAT are necessary.<br/>
 
 You can either choose to run detect.m in MATLAB where you can set breakpoints to see how the code work,<br/> or just use GUI for convenience.<br/>
 
